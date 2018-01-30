@@ -44,8 +44,8 @@ public class TestBase {
 					+ "\\src\\com\\sixleaf\\automation\\config\\ObjectRepository.properties");
 			OR.load(fp);
 
-			System.setProperty("webdriver.chrome.driver","C:/Users/user/workspace/Sixleaf-automation/Third Party API/chromedriver.exe");
-			System.setProperty("webdriver.gecko.driver","C:/Users/user/workspace/Sixleaf-automation/Third Party API/geckodriver.exe");
+			System.setProperty("webdriver.chrome.driverSystem.getProperty("user.dir") + "/Third Party API/chromedriver.exe");
+			System.setProperty("webdriver.gecko.driverSystem.getProperty("user.dir") + "/Third Party API/geckodriver.exe");
 			
 			datatable = new MSExcelAutomation(
 					System.getProperty("user.dir") + "\\src\\com\\sixleaf\\automation\\xls\\Controller.xls");
