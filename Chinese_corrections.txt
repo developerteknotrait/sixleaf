@@ -1,0 +1,23 @@
+
+Correct suggestions needed:
+
+
+1. In this mode, correct answer should be SECOND character you are telling ?
+
+ 
+
+ 
+
+
+2. In this case correct answer is SECOND character, so over over should be the second one ?
+
+ 
+
+
+3. Voice over should be only for THIRD character ?
+
+ 
+
+
+4. LAST character should be present in the voice over ?
+ 
