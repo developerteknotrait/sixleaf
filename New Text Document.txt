@@ -1,0 +1,24 @@
+Here is My End of the Day Status of : 8th December 2017
+
+1. Performed testing on Mac build (1.1.1).
+
+2. Created and executed checklist for Mac build (1.1.1).
+    
+Here is the link : https://docs.google.com/spreadsheets/d/185GisGO7cVwNHXYjkwN7qsMX4caCZxDYDRksxRn2Htk/edit#gid=34946292
+
+3. Created the following issue on Jira and assigned to you:
+
+i) TA-795
+ii) TA-796
+iii) TA-797
+iv) TA-798
+v) TA-799
+
+4. Retested and closed the following issues on Jira:
+
+i) TC-168
+ii) TC-169
+
+5. Coordinated with Jatinder regarding Fabric issues.
+
+6. Coordinated with Hitesh regarding queries.
